@@ -1,103 +1,102 @@
-<div align="center">
+ <div align="center">
 
 # realityuncompiled
 
-*The Digital Underground · A Developer's Oddity*
+**Somewhere between curiosity and catastrophe.**
 
 `∀ problem ∃ solution.`
 
-The annoying part is proving it.
+*The annoying part is proving it.*
 
-Building things. Breaking assumptions. Recompiling reality.
-
-✦ ──────────────── ✦
-
-[GitHub](https://github.com/realityuncompiled) · [Codeforces](https://codeforces.com/profile/Mahdia10)
+✦ ───────────────────────── ✦
 
 </div>
 
----
+### 𓆩♡𓆪 A person behind the commits
 
-### ⟡ A little about me
+I'm a Software Engineering student who tends to get interested in the things beneath the surface.
 
-Software Engineering student at Islamic University of Technology.
+I like understanding why something works, what assumptions make it work, and what happens when those assumptions fall apart.
 
-I like understanding how things work, why they break, and what happens when you approach a problem from an unexpected direction.
+Sometimes that curiosity turns into a useful little tool. Sometimes it becomes an unnecessarily elaborate experiment. Occasionally, it becomes a debugging session that outlives the original problem.
 
-Currently navigating the intersection of software engineering, systems, and the occasional questionable experiment.
+I don't particularly want to build things just to say I've built them. I want to understand what I'm making.
 
-- 🔭 Building: small tools and increasingly ambitious experiments.
-- 🌱 Learning: C++, C#, SQL, OOP and data structures.
-- 🧪 Interested in: AI, cybersecurity, privacy and research.
-- 🖤 Philosophy: understand first, implement second, debug indefinitely.
+Currently somewhere between learning, experimenting, and trying to make sense of it all.
 
----
+### ⟡ Things I've been making
 
-### ⟡ Selected experiments
-
-<table>
-<tr>
-<td width="50%">
+A few inhabitants of this repository collection:
 
 **[Cram Jam](https://github.com/realityuncompiled/cram-jam)**
 
-An offline academic-pressure tracker.
+An offline academic-pressure tracker built because keeping track of deadlines in my head was clearly not a sustainable software architecture.
 
 Python · SQLite · Streamlit
 
-</td>
-<td width="50%">
-
 **[Half Human, Half Stack Overflow](https://github.com/realityuncompiled/half-human-half-stackoverflow)**
 
-A growing collection of experimental projects, prototypes and AI-assisted builds.
+A collection of experiments, small programs, and assorted programming adventures. A little bit of everything, as the name suggests.
 
-C · Java · Python · Cairo
+C · Java · Cairo
 
-</td>
-</tr>
-</table>
+**Other little experiments**
+
+- `MidnightMuseum` — a Java console horror experience.
+- `dead_drop` — a C programming experiment.
+- `Tic-Tac-Toe 3.0` — because apparently the first two versions weren't enough.
+- Various algorithmic and programming exercises.
+
+Not everything here is a finished product. Some things are experiments, some are learning exercises, and some are simply evidence of curiosity.
+
+### ⟡ Current investigations
+
+| Subject | What's happening |
+|:--|:--|
+| Software Engineering | Learning to design, not just implement |
+| Systems & programming | C++, C#, Java, and understanding what's underneath |
+| Databases | SQL, PostgreSQL, and relational thinking |
+| AI & intelligent systems | Exploring possibilities beyond the hype |
+| Cybersecurity & privacy | Interested in how systems fail and how they can be protected |
+| Research | Looking for interesting questions worth pursuing |
+
+### ⟡ My current toolbox
+
+**Languages I've worked with**
+
+`C` · `Python` · `Java` · `Cairo`
+
+**Currently expanding**
+
+`C++` · `C#` · `SQL` · `MIPS`
+
+**Tools & environments**
+
+`Git` · `SQLite` · `Streamlit` · `PostgreSQL` · `Linux`
+
+The toolbox is a work in progress. Familiarity isn't mastery, and I'm perfectly happy to keep learning.
+
+### ⟡ Outside the terminal
+
+Not every curiosity needs to become a repository.
+
+You'll probably find me somewhere between:
+
+- Investigating an interesting idea that has absolutely nothing to do with the original task.
+- Reading about systems, people, and the strange logic behind things.
+- Collecting stories, psychological thrillers, and fictional characters with questionable moral compasses.
+- Drawing, listening to music, or falling into another rabbit hole.
+
+I like things with layers. Code included.
 
 ---
-
-### ⟡ The toolbox
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### ⟡ Activity log
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realityuncompiled&show_icons=true&theme=transparent&hide_border=true&title_color=A85F83&icon_color=A85F83&text_color=B8C5A4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realityuncompiled&layout=compact&theme=transparent&hide_border=true&title_color=A85F83&text_color=B8C5A4)
-
-</div>
-
----
-
-<div align="center">
-
-*Still compiling. Still curious.*
-
-`[ end of transmission ]`
 
 ✦
+
+*Still learning. Still making. Still uncompiled.*
+
+`[ end of transmission ]`
 
 </div>
