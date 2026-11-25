@@ -1,0 +1,50 @@
+name: Update contribution garden
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_maze.py"
+      - ".github/workflows/update-maze.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contribution garden
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: realityuncompiled
+        run: python scripts/generate_maze.py
+
+      - name: Commit updated garden
+        run: |
+          if git diff --quiet -- assets/contribution-maze.svg; then
+            echo "No contribution changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/contribution-maze.svg
+          git commit -m "Update contribution garden"
+          git push

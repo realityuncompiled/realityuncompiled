@@ -1,20 +1,30 @@
 <div align="center">
 
-<img src="assets/profile-scene.jpg" alt="A warm burgundy-toned illustrated desk scene with a student, books, laptop and a sleeping orange cat" width="100%">
+<table>
+<tr>
+<td width="34%" align="center">
+<img src="assets/profile-scene.jpg" width="260" alt="A cozy illustrated desk, books and a sleeping cat">
+</td>
+<td width="66%" align="left">
 
 # realityuncompiled
 
 <em>Somewhere between curiosity and a questionable sequence of events.</em>
 
-`software engineering student` · `professional wanderer` · `master of questionable decisions`
+Software Engineering student · Professional wanderer · **Master of questionable decisions**
 
-[repositories](https://github.com/realityuncompiled?tab=repositories) · [contributions](https://github.com/realityuncompiled)
+<a href="https://github.com/realityuncompiled?tab=repositories">Repositories</a> ·
+<a href="https://github.com/realityuncompiled">Profile</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### a rather informal introduction
+### 01. a rather informal introduction
 
 Meow… I'm glad you're at my profile.
 
@@ -34,43 +44,40 @@ This profile is a record of some of that wandering.
 
 ---
 
-### the workbench
+### 02. the workbench
 
 *Things I've built, things I'm building, and things that have yet to cooperate.*
 
-#### [Cram Jam](https://github.com/realityuncompiled/cram-jam)
+<table>
+<tr>
+<td width="30%">
+<strong><a href="https://github.com/realityuncompiled/cram-jam">Cram Jam</a></strong>
+</td>
+<td>
+Offline academic-pressure tracker built with Python, SQLite and Streamlit. Born out of forgetting deadlines, quizzes and other academic incidents until they become considerably less forgettable.
+</td>
+</tr>
 
-An offline academic-pressure tracker built with Python, SQLite and Streamlit.
+<tr>
+<td>
+<strong><a href="https://github.com/realityuncompiled/half-human-half-stackoverflow">half-human-half-stackoverflow</a></strong>
+</td>
+<td>
+A collection of programming experiments, exercises, C programs, Java experiments and a Cairo smart-contract experiment. Evidence of learning in progress.
+</td>
+</tr>
 
-Born out of a recurring problem: forgetting deadlines, quizzes and other academic incidents until they become considerably less forgettable.
-
-Features a little pixel companion, a local database, and an opinionated approach to academic accountability.
-
-`Python` · `SQLite` · `Streamlit`
-
-#### [half-human-half-stackoverflow](https://github.com/realityuncompiled/half-human-half-stackoverflow)
-
-A collection of programming experiments, exercises and assorted attempts at making sense of things.
-
-Contains C programs, Java experiments, a Cairo smart-contract experiment, and other evidence of learning in progress.
-
-`C` · `Java` · `Cairo`
-
-#### Chai Ledger
-
-*Currently brewing.*
-
-A CLI-based exploration of object-oriented programming and transaction tracking.
-
-The idea is to make informal university tea-and-snack debts a little less dependent on everyone's memory.
-
-Because apparently even a cup of tea can require accounting.
-
-`OOP` · `transaction history` · `settlement logic`
+<tr>
+<td><strong>Chai Ledger</strong></td>
+<td>
+<em>Currently brewing.</em> A CLI-based exploration of OOP and transaction tracking. Because apparently even a cup of tea can require accounting.
+</td>
+</tr>
+</table>
 
 ---
 
-### things currently occupying my terminal
+### 03. things currently occupying my terminal
 
 *An incomplete inventory. Subject to change without notice.*
 
@@ -92,27 +99,23 @@ I prefer understanding the machinery over memorising which buttons to press.
 
 ---
 
-### the labyrinth
+### 04. the contribution garden
 
-*An incomplete map of places I've been, things I've touched, and several questionable detours.*
+*An actual record of activity, not a decorative approximation.*
 
 <div align="center">
 
-<img src="assets/contribution-maze.svg" alt="A contribution-history labyrinth rendered in burgundy, parchment and antique gold, with a small brown pixel cat exploring it" width="100%">
+<img src="assets/contribution-maze.svg" alt="GitHub contribution calendar with a little brown cat" width="100%">
 
-<sub>The terrain is drawn from actual GitHub contribution days. The cat's route is a visual metaphor, not a measure of productivity.</sub>
+<sub>Each square represents an actual contribution day. Empty days stay empty. The cat is just visiting.</sub>
 
 </div>
 
-Old repositories. New experiments. Unexpected discoveries. Projects that took a rather scenic route.
-
-The little creature is doing its best.
-
-No particular destination. Several questionable routes.
+The little incidents lead to '…', don't they?
 
 ---
 
-### a cabinet of curiosities
+### 05. a cabinet of curiosities
 
 *For things that need not be useful to be worth keeping.*
 
@@ -126,18 +129,14 @@ Sometimes it's a novel. Sometimes it's a film. Sometimes it's an anime. Sometime
 
 I also draw, collect visual ideas, appreciate peculiar music, and have a fondness for things that are simultaneously a little gloomy and a little whimsical.
 
-A few things tend to follow me around:
-
 - **The bookshelf:** old stories, difficult questions, and other occupants of a rather crowded mind.
 - **The moving pictures:** psychological mysteries, unsettling narratives, and stories with an excellent sense of atmosphere.
 - **The little worlds:** fictional characters, strange universes, and the occasional emotional catastrophe.
 - **The margins:** art, music, observations, and things I probably should have written down somewhere.
 
-The little incidents lead to '…', don't they?
-
 ---
 
-### an unofficial lexicon
+### 06. an unofficial lexicon
 
 *Words have failed. Replacements have been issued.*
 
@@ -154,7 +153,7 @@ Ugly truths are honest.
 
 ---
 
-### before you leave
+### 07. before you leave
 
 Thanks for wandering around.
 
@@ -169,6 +168,8 @@ I suspect it found another project.
 <div align="center">
 
 <em>Still wandering. Still wondering.</em>
+
+<br>
 
 <sub>— realityuncompiled</sub>
 
