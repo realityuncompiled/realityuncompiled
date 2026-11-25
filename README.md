@@ -1,102 +1,175 @@
- <div align="center">
+<div align="center">
+
+<img src="assets/profile-scene.jpg" alt="A warm burgundy-toned illustrated desk scene with a student, books, laptop and a sleeping orange cat" width="100%">
 
 # realityuncompiled
 
-**Somewhere between curiosity and catastrophe.**
+<em>Somewhere between curiosity and a questionable sequence of events.</em>
 
-`∀ problem ∃ solution.`
+`software engineering student` · `professional wanderer` · `master of questionable decisions`
 
-*The annoying part is proving it.*
-
-✦ ───────────────────────── ✦
+[repositories](https://github.com/realityuncompiled?tab=repositories) · [contributions](https://github.com/realityuncompiled)
 
 </div>
 
-### 𓆩♡𓆪 A person behind the commits
+---
 
-I'm a Software Engineering student who tends to get interested in the things beneath the surface.
+### a rather informal introduction
 
-I like understanding why something works, what assumptions make it work, and what happens when those assumptions fall apart.
+Meow… I'm glad you're at my profile.
 
-Sometimes that curiosity turns into a useful little tool. Sometimes it becomes an unnecessarily elaborate experiment. Occasionally, it becomes a debugging session that outlives the original problem.
+Visit on your own while I dive behind the bookshelf.
 
-I don't particularly want to build things just to say I've built them. I want to understand what I'm making.
+I'm a Software Engineering student at the Islamic University of Technology, currently navigating the rather interesting business of learning how to make computers do things — preferably things I intended them to do.
 
-Currently somewhere between learning, experimenting, and trying to make sense of it all.
+I'm interested in software engineering, AI, cybersecurity, digital privacy, and research… Or, to be honest, I'm still stuck wandering.
 
-### ⟡ Things I've been making
+I enjoy building small things, investigating unfamiliar concepts, and occasionally turning an innocent idea into an unnecessarily elaborate experiment.
 
-A few inhabitants of this repository collection:
+I haven't quite figured out where all these interests are leading. For now, I'm rather enjoying finding out.
 
-**[Cram Jam](https://github.com/realityuncompiled/cram-jam)**
+I like understanding what's happening beneath the surface. Not particularly fond of knowing that something works without knowing *why* it works. Which, admittedly, makes some learning experiences considerably longer than anticipated.
 
-An offline academic-pressure tracker built because keeping track of deadlines in my head was clearly not a sustainable software architecture.
-
-Python · SQLite · Streamlit
-
-**[Half Human, Half Stack Overflow](https://github.com/realityuncompiled/half-human-half-stackoverflow)**
-
-A collection of experiments, small programs, and assorted programming adventures. A little bit of everything, as the name suggests.
-
-C · Java · Cairo
-
-**Other little experiments**
-
-- `MidnightMuseum` — a Java console horror experience.
-- `dead_drop` — a C programming experiment.
-- `Tic-Tac-Toe 3.0` — because apparently the first two versions weren't enough.
-- Various algorithmic and programming exercises.
-
-Not everything here is a finished product. Some things are experiments, some are learning exercises, and some are simply evidence of curiosity.
-
-### ⟡ Current investigations
-
-| Subject | What's happening |
-|:--|:--|
-| Software Engineering | Learning to design, not just implement |
-| Systems & programming | C++, C#, Java, and understanding what's underneath |
-| Databases | SQL, PostgreSQL, and relational thinking |
-| AI & intelligent systems | Exploring possibilities beyond the hype |
-| Cybersecurity & privacy | Interested in how systems fail and how they can be protected |
-| Research | Looking for interesting questions worth pursuing |
-
-### ⟡ My current toolbox
-
-**Languages I've worked with**
-
-`C` · `Python` · `Java` · `Cairo`
-
-**Currently expanding**
-
-`C++` · `C#` · `SQL` · `MIPS`
-
-**Tools & environments**
-
-`Git` · `SQLite` · `Streamlit` · `PostgreSQL` · `Linux`
-
-The toolbox is a work in progress. Familiarity isn't mastery, and I'm perfectly happy to keep learning.
-
-### ⟡ Outside the terminal
-
-Not every curiosity needs to become a repository.
-
-You'll probably find me somewhere between:
-
-- Investigating an interesting idea that has absolutely nothing to do with the original task.
-- Reading about systems, people, and the strange logic behind things.
-- Collecting stories, psychological thrillers, and fictional characters with questionable moral compasses.
-- Drawing, listening to music, or falling into another rabbit hole.
-
-I like things with layers. Code included.
+This profile is a record of some of that wandering.
 
 ---
 
+### the workbench
+
+*Things I've built, things I'm building, and things that have yet to cooperate.*
+
+#### [Cram Jam](https://github.com/realityuncompiled/cram-jam)
+
+An offline academic-pressure tracker built with Python, SQLite and Streamlit.
+
+Born out of a recurring problem: forgetting deadlines, quizzes and other academic incidents until they become considerably less forgettable.
+
+Features a little pixel companion, a local database, and an opinionated approach to academic accountability.
+
+`Python` · `SQLite` · `Streamlit`
+
+#### [half-human-half-stackoverflow](https://github.com/realityuncompiled/half-human-half-stackoverflow)
+
+A collection of programming experiments, exercises and assorted attempts at making sense of things.
+
+Contains C programs, Java experiments, a Cairo smart-contract experiment, and other evidence of learning in progress.
+
+`C` · `Java` · `Cairo`
+
+#### Chai Ledger
+
+*Currently brewing.*
+
+A CLI-based exploration of object-oriented programming and transaction tracking.
+
+The idea is to make informal university tea-and-snack debts a little less dependent on everyone's memory.
+
+Because apparently even a cup of tea can require accounting.
+
+`OOP` · `transaction history` · `settlement logic`
+
+---
+
+### things currently occupying my terminal
+
+*An incomplete inventory. Subject to change without notice.*
+
+| Technology | Relationship |
+|:---|:---|
+| C | Learning and experimenting |
+| C++ | Exploring |
+| Java | Learning |
+| Python | Building projects |
+| C# | Learning |
+| SQL | Learning |
+| MIPS | Academic exploration |
+| Git | Version control and collaboration |
+| Linux | Daily exploration |
+
+Also interested in AI, cybersecurity, privacy engineering, and the occasional rabbit hole that has absolutely nothing to do with the original task.
+
+I prefer understanding the machinery over memorising which buttons to press.
+
+---
+
+### the labyrinth
+
+*An incomplete map of places I've been, things I've touched, and several questionable detours.*
+
 <div align="center">
 
-✦
+<img src="assets/contribution-maze.svg" alt="A contribution-history labyrinth rendered in burgundy, parchment and antique gold, with a small brown pixel cat exploring it" width="100%">
 
-*Still learning. Still making. Still uncompiled.*
+<sub>The terrain is drawn from actual GitHub contribution days. The cat's route is a visual metaphor, not a measure of productivity.</sub>
 
-`[ end of transmission ]`
+</div>
+
+Old repositories. New experiments. Unexpected discoveries. Projects that took a rather scenic route.
+
+The little creature is doing its best.
+
+No particular destination. Several questionable routes.
+
+---
+
+### a cabinet of curiosities
+
+*For things that need not be useful to be worth keeping.*
+
+There are stories one finishes, and stories that quietly rearrange the furniture in one's head.
+
+I have a particular weakness for the latter.
+
+Old books, uncomfortable questions, psychological thrillers, fictional worlds that linger a little too long, and characters whose decisions would make excellent case studies in questionable human behaviour.
+
+Sometimes it's a novel. Sometimes it's a film. Sometimes it's an anime. Sometimes it's a BL that turns out to have considerably more going on beneath the surface than its description suggested.
+
+I also draw, collect visual ideas, appreciate peculiar music, and have a fondness for things that are simultaneously a little gloomy and a little whimsical.
+
+A few things tend to follow me around:
+
+- **The bookshelf:** old stories, difficult questions, and other occupants of a rather crowded mind.
+- **The moving pictures:** psychological mysteries, unsettling narratives, and stories with an excellent sense of atmosphere.
+- **The little worlds:** fictional characters, strange universes, and the occasional emotional catastrophe.
+- **The margins:** art, music, observations, and things I probably should have written down somewhere.
+
+The little incidents lead to '…', don't they?
+
+---
+
+### an unofficial lexicon
+
+*Words have failed. Replacements have been issued.*
+
+| Expression | Meaning |
+|:---|:---|
+| thing-a-magic | A technical object whose proper name has temporarily escaped me. |
+| proly | Probably, with a little less commitment. |
+| Y'know like… | An explanation is approaching. Its route is uncertain. |
+| Lesgooo | Readiness. Actual preparedness may vary. |
+| BRO. | A universal response to particularly significant incidents. |
+| Meow | No further explanation required. |
+
+Ugly truths are honest.
+
+---
+
+### before you leave
+
+Thanks for wandering around.
+
+If something here caught your attention, feel free to explore the repositories, open an issue, or say hello.
+
+I'm still learning, still experimenting, and occasionally making a thing-a-magic out of something that probably had a perfectly reasonable name.
+
+The cat has gone somewhere behind the bookshelf again.
+
+I suspect it found another project.
+
+<div align="center">
+
+<em>Still wandering. Still wondering.</em>
+
+<sub>— realityuncompiled</sub>
 
 </div>
